@@ -1,1 +1,4 @@
 git clone komutu githup ta var olan repoyu locale indirmek için kullanıılır
+
+
+remote repoda değişiklilerim
